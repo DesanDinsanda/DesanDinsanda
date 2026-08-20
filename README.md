@@ -154,10 +154,10 @@ Covered OOP Core Principles, Web Development & Software Lifecycle.
 * Developed a responsive, modern **React.js frontend** integrated seamlessly with backend APIs via Axios.
 
 <p align="left">
-  <a href="https://github.com/DesanDinsanda" target="_blank">
+  <a href="https://github.com/DesanDinsanda/contract-finder-all-microservice" target="_blank">
     <img src="https://img.shields.io/badge/Backend_Repo-238636?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/DesanDinsanda" target="_blank">
+  <a href="https://github.com/DesanDinsanda/ead-frontend" target="_blank">
     <img src="https://img.shields.io/badge/Frontend_Repo-238636?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -177,10 +177,10 @@ Covered OOP Core Principles, Web Development & Software Lifecycle.
 * Production deployed with frontend hosted on **Netlify** and Spring Boot backend deployed on **Railway**.
 
 <p align="left">
-  <a href="https://github.com/DesanDinsanda/event-finder-backend.git" target="_blank">
+  <a href="https://github.com/DesanDinsanda/event-finder-backend" target="_blank">
     <img src="https://img.shields.io/badge/Backend_Repo-238636?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/DesanDinsanda/react-full-project.git" target="_blank">
+  <a href="https://github.com/DesanDinsanda/event-finder-tailwind" target="_blank">
     <img src="https://img.shields.io/badge/Frontend_Repo-238636?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -200,8 +200,11 @@ Covered OOP Core Principles, Web Development & Software Lifecycle.
 * Built in-app camera capture for feedback photos stored securely via **Firebase Storage**.
 
 <p align="left">
-  <a href="https://github.com/DesanDinsanda/Pizza-Mania.git" target="_blank">
-    <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/DesanDinsanda/pizza-mania-admin" target="_blank">
+    <img src="https://img.shields.io/badge/Admin_App-238636?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/DesanDinsanda/Pizza-Mania" target="_blank">
+    <img src="https://img.shields.io/badge/Customer_App-238636?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
