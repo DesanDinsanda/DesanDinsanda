@@ -1,183 +1,259 @@
-<h1 align="center">Hi 👋, I'm Desan Dinsanda</h1>
-<h3 align="center">
-  Full-Stack Developer | Passionate About Solving Real-World Problems
-</h3>
+<div align="center">
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Desan%20Dinsanda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
+<!-- Badges & Social Links -->
 <p align="center">
-  I am a <b>Full-Stack Developer</b> with a strong interest in building practical, real-world software solutions.
-  I enjoy working across the entire development stack — from designing clean, user-friendly interfaces
-  to developing robust backend systems and databases.
-</p>
-
-<p align="center">
-  🌱 Currently learning <b>React, TypeScript, JavaScript, Java</b><br/>
-  📫 Reach me at <b>desandinsanda@gmail.com</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/desan-dinsanda-67113b359" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn" height="30" width="40" style="margin:8px;"/>
+  <a href="https://linkedin.com/in/desandinsanda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:desandinsanda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/DesanDinsanda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/DesanDinsanda">
+    <img src="https://komarev.com/ghpvc/?username=DesanDinsanda&style=for-the-badge&color=2C5364" alt="Profile Views"/>
   </a>
 </p>
 
-<hr/>
+<!-- Typing SVG Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Microservices+Developer;Java+%7C+Spring+Boot+%7C+Kafka+%7C+React+%7C+TypeScript;Building+Scalable%2C+Real-World+Software;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
+</a>
 
-<h3 align="left">🧑‍💻 Programming Languages</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" style="margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" style="margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" style="margin:10px;"/>
-</p>
+</div>
 
-<h3 align="left">🎨 Frontend Development</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" style="margin:10px;"/>
-</p>
+<br/>
 
-<h3 align="left">⚙️ Backend Development</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" style="margin:10px;"/>
-</p>
+---
 
-<h3 align="left">📱 Mobile App Development</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" style="margin:10px;"/>
-</p>
+## 🧭 About Me
 
-<h3 align="left">🗄️ Database</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="margin:10px;"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" style="margin:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" style="margin:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" style="margin:10px;"/>
-</p>
+<img align="right" width="160" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" />
 
-<h3 align="left">☁️ Backend as a Service (BaaS)</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" style="margin:10px;"/>
-</p>
+I am a passionate **Computer Science Undergraduate** and **Full-Stack Developer** based in **Colombo, Sri Lanka**. I specialize in building **microservices-based backend architectures**, secure RESTful APIs, asynchronous messaging systems, and modern, responsive frontend web applications.
 
-<h3 align="left">🛠️ Software & Tools</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin:10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin:10px;"/>
-</p>
+- 🎓 **Education**: BSc (Hons) in Computer Science @ **NIBM**
+- ⚡ **Backend Specialties**: Java, Spring Boot, Spring Security, Microservices (6+ service architectures), Kafka, REST APIs
+- 💻 **Frontend Specialties**: React.js, TypeScript, JavaScript, Tailwind CSS, HTML5/CSS3
+- 🗄️ **Databases & Cloud**: MySQL, Oracle SQL, SQL Server, Firebase, Cloudinary, Netlify, Railway
+- 📫 **Contact Me**: [desandinsanda@gmail.com](mailto:desandinsanda@gmail.com) | (+94) 781463975
 
-<h3 align="left">🔌 Other</h3>
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" style="margin:10px;"/>
-</p>
+<br/>
 
-<hr/>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesanDinsanda&layout=compact&theme=dark&bg_color=0A0A0A" />
-</p>
+## 🎓 Education & Academic Excellence
 
-<hr/>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-<h2 align="center">🚀 Projects</h2>
+### 🎓 BSc (Hons) Computer Science
+**National Institute of Business Management (NIBM)**  
+📅 *Expected Graduation: April 2028*  
+Focusing on Advanced Software Architecture, Distributed Systems, and Data Structures & Algorithms.
+
+</td>
+<td width="33%" valign="top">
+
+### 📜 Higher National Diploma (HND)
+**National Institute of Business Management (NIBM)**  
+📅 *Apr 2025 – Apr 2026*  
+Specializing in Full-Stack Engineering, Enterprise Systems, and Database Management.
+
+</td>
+<td width="34%" valign="top">
+
+### 🏆 Diploma in Software Engineering
+**National Institute of Business Management (NIBM)**  
+📅 *Mar 2024 – Mar 2025*  
+⭐ **GPA: 3.95 / 4.00 — Distinction Pass**  
+Covered OOP Core Principles, Web Development & Software Lifecycle.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack & Capabilities
 
 <div align="center">
 
-<!-- Project Card 1 -->
-<div
-  style="
-    margin: 20px auto;
-    padding: 20px;
-    max-width: 800px;
-    background: rgba(255,255,255,0.05);
-    border: 1px solid rgba(255,255,255,0.15);
-    border-radius: 16px;
-    box-shadow: 0 8px 30px rgba(0,0,0,0.25);
-  ">
-
-  <h3>🎉 Event Finder Web Application</h3>
-
-  <p>
-    A full-stack web application built using <b>React, Spring Boot, and MySQL</b>
-    that helps users discover and manage events efficiently.
-  </p>
-
-  <p>
-    <b>Tech Stack:</b> React • Spring Boot • MySQL • REST APIs
-  </p>
-
-  <a href="https://github.com/DesanDinsanda/react-full-project.git" target="_blank"
-     style="
-       display: inline-block;
-       margin-top: 12px;
-       padding: 10px 18px;
-       background: #238636;
-       color: #ffffff;
-       text-decoration: none;
-       border-radius: 8px;
-       font-weight: bold;
-     ">
-    🔍 View Repository(Frontend)
-  </a>
-
-  <a href="https://github.com/DesanDinsanda/event-finder-backend.git" target="_blank"
-     style="
-       display: inline-block;
-       margin-top: 12px;
-       padding: 10px 18px;
-       background: #238636;
-       color: #ffffff;
-       text-decoration: none;
-       border-radius: 8px;
-       font-weight: bold;
-     ">
-    🔍 View Repository(Backend)
-  </a>
+### ⚡ Primary Stack Icons
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,tailwind,bootstrap,mysql,postgres,firebase,docker,aws,git,github,postman,androidstudio&theme=dark" alt="Tech Stack Icons" />
+</p>
 
 </div>
 
-<!-- Project Card 2 (Template for next project) -->
-<div
-  style="
-    margin: 20px auto;
-    padding: 20px;
-    max-width: 800px;
-    background: rgba(255,255,255,0.05);
-    border: 1px solid rgba(255,255,255,0.15);
-    border-radius: 16px;
-    box-shadow: 0 8px 30px rgba(0,0,0,0.25);
-  ">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-  <h3>📱 Mobile Application Project</h3>
+### ☕ Backend & Architecture
+- **Languages**: Java, C#, C++, PHP
+- **Frameworks**: Spring Boot, Spring Security, Spring Data JPA
+- **Architecture**: Microservices (Multi-service), RESTful APIs, JWT Auth
+- **Messaging**: Apache Kafka (Asynchronous Messaging)
 
-  <p>
-    A pizza ordering system designed to simplify menu browsing, pizza customization, and order placement for customers, locations selections.
-  </p>
+</td>
+<td width="50%" valign="top">
 
-  <p>
-    <b>Tech Stack:</b> Android • Java • Firebase
-  </p>
+### 🎨 Frontend & Mobile
+- **Core Web**: JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks & UI**: React.js, Tailwind CSS, Bootstrap
+- **Mobile Development**: Android Studio (Java, Native Android)
+- **HTTP & State**: Axios, REST API Integration
 
-  <a href="https://github.com/DesanDinsanda/Pizza-Mania.git" target="_blank"
-     style="
-       display: inline-block;
-       margin-top: 12px;
-       padding: 10px 18px;
-       background: #238636;
-       color: #ffffff;
-       text-decoration: none;
-       border-radius: 8px;
-       font-weight: bold;
-     ">
-    🔍 View Repository
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Databases & ORM
+- **Relational Databases**: MySQL, Oracle (SQL), SQL Server
+- **NoSQL / Cloud DB**: Firebase Cloud Firestore, Realtime Database
+- **ORM & Data**: Spring Data JPA, Hibernate
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Tools, Cloud & Practices
+- **Deployment**: Railway, Netlify, Cloudinary API
+- **Dev Tools**: Git, GitHub, Postman, Android Studio, Jira
+- **Methodologies**: Agile / SDLC, OOP, System Design, Problem Solving
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+
+<tr>
+<td width="100%" valign="top">
+
+### 🏗️ Contract Finder Platform — *Microservices-Based Full Stack System*
+> **Architecture**: Microservices • Java • Spring Boot • React.js • Apache Kafka • MySQL • Spring Data JPA • BCrypt • Axios
+
+* Architected a robust **6-service microservices backend** with **70+ RESTful APIs** supporting dual user roles (*Worker & Customer*) for job posting and contract matching.
+* Implemented **Spring Security** with **BCrypt password hashing** across all services for enterprise-grade authentication & authorization.
+* Engineered **Kafka-based asynchronous event-driven messaging** for real-time inter-service notifications.
+* Developed a responsive, modern **React.js frontend** integrated seamlessly with backend APIs via Axios.
+
+<p align="left">
+  <a href="https://github.com/DesanDinsanda" target="_blank">
+    <img src="https://img.shields.io/badge/Backend_Repo-238636?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://github.com/DesanDinsanda" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend_Repo-238636?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
+
+### 🎉 Event Finder Web Application — *Full-Stack Event Management System*
+> **Stack**: Java • Spring Boot • React • TypeScript • Tailwind CSS • MySQL • Cloudinary API • Netlify • Railway
+
+* Built an end-to-end event discovery and management platform featuring comprehensive event creation, search, and category filtering.
+* Designed type-safe RESTful APIs with **Spring Data JPA** and **MySQL** database persistence.
+* Integrated **Cloudinary API** for dynamic cloud media management & optimized image delivery.
+* Production deployed with frontend hosted on **Netlify** and Spring Boot backend deployed on **Railway**.
+
+<p align="left">
+  <a href="https://github.com/DesanDinsanda/event-finder-backend.git" target="_blank">
+    <img src="https://img.shields.io/badge/Backend_Repo-238636?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/DesanDinsanda/react-full-project.git" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend_Repo-238636?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
+
+### 🍕 Pizza Mania Mobile Application — *Customer & Admin Ordering System*
+> **Stack**: Android (Java) • Firebase Authentication • Cloud Firestore • Google Maps API • Firebase Storage
+
+* Developed native Android apps for both **Customer** and **Admin** personas supporting multi-branch pizza ordering.
+* Integrated **Cloud Firestore** for real-time order synchronization across user devices and admin dashboards.
+* Implemented **Firebase Authentication** with email verification and **Google Maps API** for branch location finder.
+* Built in-app camera capture for feedback photos stored securely via **Firebase Storage**.
+
+<p align="left">
+  <a href="https://github.com/DesanDinsanda/Pizza-Mania.git" target="_blank">
+    <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DesanDinsanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DesanDinsanda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesanDinsanda&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 
 </div>
+
+<br/>
+
+---
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+I'm always open to discussing **Full-Stack Development**, **Microservices Architecture**, **Open-Source Collaboration**, or new opportunities!
+
+<p align="center">
+  <a href="https://linkedin.com/in/desandinsanda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:desandinsanda@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/DesanDinsanda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Footer Waving SVG Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+<p align="center">
+  <i>Designed with ❤️ by <b>Desan Dinsanda</b> • Built for Performance & Excellence</i>
+</p>
 
 </div>
