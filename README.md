@@ -5,7 +5,7 @@
 
 <!-- Badges & Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/desandinsanda" target="_blank">
+  <a href="linkedin.com/in/desan-dinsanda-67113b359" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:desandinsanda@gmail.com">
