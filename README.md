@@ -217,23 +217,6 @@ Covered OOP Core Principles, Web Development & Software Lifecycle.
 
 ---
 
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DesanDinsanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DesanDinsanda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesanDinsanda&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-
-</div>
-
-<br/>
-
----
-
 ## 🤝 Connect & Collaborate
 
 <div align="center">
