@@ -5,7 +5,7 @@
 
 <!-- Badges & Social Links -->
 <p align="center">
-  <a href="linkedin.com/in/desan-dinsanda-67113b359" target="_blank">
+  <a href="https://www.linkedin.com/in/desan-dinsanda-67113b359" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:desandinsanda@gmail.com">
@@ -224,7 +224,7 @@ Covered OOP Core Principles, Web Development & Software Lifecycle.
 I'm always open to discussing **Full-Stack Development**, **Microservices Architecture**, **Open-Source Collaboration**, or new opportunities!
 
 <p align="center">
-  <a href="https://linkedin.com/in/desandinsanda" target="_blank">
+  <a href="https://www.linkedin.com/in/desan-dinsanda-67113b359" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:desandinsanda@gmail.com">
